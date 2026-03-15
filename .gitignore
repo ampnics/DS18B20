@@ -1,0 +1,13 @@
+# KiCad
+*-backups/
+fp-info-cache
+_autosave-*
+*.lck
+*.000
+*.~*
+
+# General
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak

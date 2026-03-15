@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100nF","C_0603_1608Metric",152.000000,-95.500000,90.000000,top
+"J1","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Horizontal",153.740000,-100.515000,-90.000000,top
+"R1","4K7","R_0603_1608Metric",150.100000,-95.500000,90.000000,top
+"U1","DS18B20","TO-92_W4.0mm_StaggerEven_Horizontal_FlatSideUp",149.545000,-91.295000,0.000000,top
